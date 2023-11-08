@@ -5,7 +5,7 @@ function Login() {
 
     if (username == "himasi" && password == "himasi"){
         if(confirm("Apakah anda ingin login?")){
-            window.location.href = "https://github.com/RahmatAbdulMalik";
+            window.location.href = "https://github.com/martadinata1/tugas_mabim";
         } else {
             alert("Membatalkan login !");
         }
